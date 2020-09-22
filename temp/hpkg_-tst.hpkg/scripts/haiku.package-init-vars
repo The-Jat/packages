@@ -1,0 +1,25 @@
+addattr=
+addattr="../generated/objects/linux/x86_64/release/tools/addattr/addattr"
+copyattr=
+copyattr="../generated/objects/linux/x86_64/release/tools/copyattr"
+mimeDB=
+mimeDB="generated/objects/common/data/mime_db/mime_db"
+mimeset=
+mimeset="../generated/objects/linux/x86_64/release/tools/mimeset"
+package=
+package="../generated/objects/linux/x86_64/release/tools/package/package"
+rc=
+rc="../generated/objects/linux/x86_64/release/tools/rc/rc"
+resattr=
+resattr="../generated/objects/linux/x86_64/release/tools/resattr/resattr"
+unzip=
+unzip="../generated/objects/linux/x86_64/release/tools/unzip/unzip"
+rmAttrs=
+rmAttrs="../generated/objects/linux/x86_64/release/tools/rm_attrs"
+sourceDir="."
+outputDir="generated"
+tmpDir="temp/hpkg_-tst.hpkg"
+addBuildCompatibilityLibDir="export LD_LIBRARY_PATH=:/home/mak/Downloads/new_haiku/js-master/jaatsoft/generated/objects/linux/lib"
+compressionLevel="9"
+updateOnly=""
+cc="/home/mak/Downloads/new_haiku/js-master/jaatsoft/generated/cross-tools-x86_64/bin/x86_64-unknown-haiku-gcc"

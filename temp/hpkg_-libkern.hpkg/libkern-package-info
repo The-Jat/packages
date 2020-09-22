@@ -1,0 +1,12 @@
+name	libkern
+version	r1~beta1_hrev54524_dirty-1
+summary	"the libkern library"
+description	"This package provides a libkern library that contains posix things with object files as well."
+vendor	"Jaatsoft Project"
+packager	"The JAAT SOFT "
+architecture	any
+copyrights	"2020 JAATSOFT,"
+licenses	MIT
+provides	{
+	libkernx86_64=r1~beta1_hrev54524_dirty-1
+}

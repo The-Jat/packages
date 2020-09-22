@@ -1,0 +1,17 @@
+name			libkern
+version			%HAIKU_VERSION%
+architecture	any
+summary			"the libkern library"
+
+description		"This package provides a libkern library that contains \
+posix things with object files as well."
+
+packager		"The JAAT SOFT "
+vendor			"Jaatsoft Project"
+
+copyrights		"2020 JAATSOFT,"
+licenses		"MIT"
+
+provides {
+	libkern%HAIKU_PACKAGING_ARCH% = %HAIKU_VERSION%
+}

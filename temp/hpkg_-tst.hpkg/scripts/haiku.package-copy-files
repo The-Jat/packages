@@ -1,0 +1,2 @@
+$cp "${sPrefix}../generated/objects/haiku/x86_64/release/js_libs/libkern/." "${tPrefix}develop/lib/"
+$cp -r -x *~ "${sPrefix}../generated/objects/haiku/x86_64/release/js_libs/libkern/." "${tPrefix}lib/"

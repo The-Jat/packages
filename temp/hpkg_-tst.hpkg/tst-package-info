@@ -1,0 +1,12 @@
+name	tst
+version	r1~beta1_hrev54524_dirty-1
+summary	"Contains a package with system files for cross development"
+description	"This package provides a package that contains all files associated with the base system needed for cross development, like static libraries, glue code, library symlinks, header files, etc."
+vendor	"Haiku Project"
+packager	"The Haiku build system"
+architecture	any
+copyrights	"2001-2020 Haiku, Inc. et al"
+licenses	MIT
+provides	{
+	tstx86_64=r1~beta1_hrev54524_dirty-1
+}

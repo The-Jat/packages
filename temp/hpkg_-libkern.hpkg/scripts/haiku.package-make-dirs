@@ -1,0 +1,2 @@
+$mkdir -p "${tPrefix}develop/lib" "${tPrefix}lib"
+$copyAttrs "${sPrefix}/haiku.package-make-dirs-attributes-develop" "${tPrefix}develop"
